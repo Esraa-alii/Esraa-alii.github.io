@@ -34,8 +34,8 @@ there is 3 ways to declare constant pointer :
 
 ![image](https://gateoverflow.in/?qa=blob&qa_blobid=7161266191032989115)
 
- ***3-Const iterators: ***
- C++ requires that const functions return only const pointers and references. Since iterators can also be used to modify the underlying collection, when an STL collection is declared const, then any iterators used over the collection must be const iterators.
+ ***3-Const iterators:***
+C++ requires that const functions return only const pointers and references. Since iterators can also be used to modify the underlying collection, when an STL collection is declared const, then any iterators used over the collection must be const iterators.
 
 
 ***4-Const Functions:***
@@ -60,13 +60,13 @@ Syntax:
 # &
 used in 2 ways :
 
-***1-The logical AND operator (&&): ***
+***1-The logical AND operator (&&):***
 (&&) returns true if both operands are true and returns false otherwise.
 
 ![image](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-AND.png)
 
 
-***2-- Address Of operator: ***
+***2-Address Of operator:***
 a unary operator that returns the address of its opernad
 
 ![image](https://s3.studytonight.com/tutorials/uploads/pictures/1613545250-79873.png)
