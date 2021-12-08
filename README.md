@@ -32,8 +32,7 @@ there is 3 ways to declare constant pointer :
 
 *const data_type* const var_name;*
 
-![image](https://i.stack.imgur.com/Zt0G2.png//user-images.githubusercontent.com/91143454/145293183-ffae4b51-b337-476c-b9a1-248df13fb4c8.png)
-
+![image](https://gateoverflow.in/?qa=blob&qa_blobid=7161266191032989115)
 
  ***3-Const iterators: ***
  C++ requires that const functions return only const pointers and references. Since iterators can also be used to modify the underlying collection, when an STL collection is declared const, then any iterators used over the collection must be const iterators.
