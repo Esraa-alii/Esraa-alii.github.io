@@ -31,6 +31,7 @@ there is 3 ways to declare constant pointer :
 **or**
 
 *const data_type* const var_name;*
+
 ![image](https://i.stack.imgur.com/Zt0G2.png//user-images.githubusercontent.com/91143454/145293183-ffae4b51-b337-476c-b9a1-248df13fb4c8.png)
 
 
@@ -62,11 +63,13 @@ used in 2 ways :
 
 ***1-The logical AND operator (&&): ***
 (&&) returns true if both operands are true and returns false otherwise.
-![image](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-AND.png![image](https://user-images.githubusercontent.com/91143454/145296660-16fa475a-561a-4d52-a3ec-3b6050d9dcea.png)
+
+![image](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-AND.png)
 
 
 ***2-- Address Of operator: ***
 a unary operator that returns the address of its opernad
+
 ![image](https://s3.studytonight.com/tutorials/uploads/pictures/1613545250-79873.png)
 
 
